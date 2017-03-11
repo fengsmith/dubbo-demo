@@ -30,8 +30,8 @@
     <bytecodeTargetLevel>
       <module name="client" target="1.5" />
       <module name="consumer" target="1.5" />
+      <module name="parent" target="1.5" />
       <module name="provider" target="1.5" />
-      <module name="untitled2" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
